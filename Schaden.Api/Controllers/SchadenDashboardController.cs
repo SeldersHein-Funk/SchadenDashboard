@@ -28,3 +28,4 @@ namespace Schaden.Api.Controllers
             return Ok(report);
         }
     }
+}
