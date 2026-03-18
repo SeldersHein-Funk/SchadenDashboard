@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
 	<PropertyGroup>
 		<TargetFramework>net9.0</TargetFramework>
@@ -12,6 +12,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\Schaden.Application\Schaden.Application.csproj" />
 		<ProjectReference Include="..\Schaden.Infrastructure.Database\Schaden.Infrastructure.Database.csproj" />
 		<ProjectReference Include="..\Schaden.Infrastructure\Schaden.Infrastructure.csproj" />
 	</ItemGroup>
