@@ -1,5 +1,3 @@
-
-using Microsoft.Extensions.DependencyInjection;
 using Schaden.Infrastructure;
 using Schaden.Infrastructure.Database;
 

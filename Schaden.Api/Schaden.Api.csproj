@@ -13,6 +13,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\Schaden.Infrastructure.Database\Schaden.Infrastructure.Database.csproj" />
+		<ProjectReference Include="..\Schaden.Infrastructure\Schaden.Infrastructure.csproj" />
 	</ItemGroup>
 
 </Project>
